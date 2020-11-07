@@ -1,7 +1,7 @@
 discord:
   bot_token:
-telegram:
-  bot_token:
+telegram: XiaomiFirmware
+  bot_token: 1365237681:AAGJMZP5nRRNtfues5nN5bVVEVqwo4DezE8
   chat: MIUIUpdatesTracker
 twitter:
   consumer_key:
